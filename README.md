@@ -1,7 +1,8 @@
 # capMerger
-Taking and processing multiple screenshot images from a video can be time-consuming. The objective of this project was to automate capturing, saving, resizing, and merging images in simpler way.
+Taking screenshot images and processing them can be time-consuming. The objective of this project was to automate capturing, saving, resizing, and merging images in simpler way. 
 
 ## Quick Demo
+* https://www.youtube.com/watch?v=6stlCkUDG_s&list=PL4Gr5tOAPttLOY9IrWVjJlv4CtkYI5cI_
 
 ## Getting Started
 ### Requirements
