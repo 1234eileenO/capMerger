@@ -3,8 +3,8 @@ Taking and processing multiple screenshot images from a video can be time-consum
 
 ## Quick Demo
 
-### Getting Started
-## Requirements
+## Getting Started
+### Requirements
 * Python3 (Recommended)
 * Python2
 
@@ -13,11 +13,8 @@ Taking and processing multiple screenshot images from a video can be time-consum
 * tkinter
 * pathlib
 
-### Installing (cloning)
+## Installing (cloning)
 * $ git clone https://github.com/1234eileenO/capMerger
-* 
-### Executing program
-* 
 * Executable program is also available. 
 
 ## Version History
