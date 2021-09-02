@@ -1,5 +1,5 @@
 # Capture & Merge
-Taking screenshot images and processing them can be time-consuming. The objective of this project was to make capturing, saving, resizing, and merging images simpler.
+Taking screenshot images and processing them can be time-consuming. The objective of this project was to create python based GUI to automate capturing, saving, resizing, and producing a single merged image file. You can set how long you want to screenshot. The program will begin 5 seconds after you press start.
 
 ![mainImage](https://user-images.githubusercontent.com/87738342/131792865-7de99b75-d38f-4aa7-98a9-22774cb120f3.PNG)
 ![inProgress](https://user-images.githubusercontent.com/87738342/131793460-e7cb5c4e-98d6-461b-bd78-5b7b3ff15e9e.PNG)
