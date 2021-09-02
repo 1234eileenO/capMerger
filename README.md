@@ -1,11 +1,11 @@
 # capMerger
-Taking screenshot images and processing them can be time-consuming. The objective of this project was to make capturing, saving, resizing, and merging images in simpler way.
+Taking screenshot images and processing them can be time-consuming. The objective of this project was to make capturing, saving, resizing, and merging images simpler.
 
-![mainImage](https://user-images.githubusercontent.com/87738342/131791822-f6cfe4b9-bd13-40fd-a276-53c5ccbe7ad4.PNG)
-![inProgress](https://user-images.githubusercontent.com/87738342/131791837-b86a383a-c050-4dfb-9cf2-53dfc1dcd504.PNG)
+![mainImage](https://user-images.githubusercontent.com/87738342/131792865-7de99b75-d38f-4aa7-98a9-22774cb120f3.PNG)
+![inProgress](https://user-images.githubusercontent.com/87738342/131792876-265b8038-d162-414c-aa93-be90bb7ecfcc.PNG)
 
-* Below is an example of merged output photo. It is 640 x 2400 with large space between each captured images.
-* Screen capture duration was set 5 seconds.
+Below is an example of merged output photo. It is 640 x 2400 with large space (150) between each captured images.
+Screen capture duration time was set 5 seconds.
 ![merged_photo](https://user-images.githubusercontent.com/87738342/131791857-97766cc1-fc7e-41ab-9077-f0740f4bcd05.png)
 
 ## Getting Started
