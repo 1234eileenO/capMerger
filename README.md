@@ -1,8 +1,8 @@
-# capMerger
+# Capture & Merge
 Taking screenshot images and processing them can be time-consuming. The objective of this project was to make capturing, saving, resizing, and merging images simpler.
 
 ![mainImage](https://user-images.githubusercontent.com/87738342/131792865-7de99b75-d38f-4aa7-98a9-22774cb120f3.PNG)
-![inProgress](https://user-images.githubusercontent.com/87738342/131792876-265b8038-d162-414c-aa93-be90bb7ecfcc.PNG)
+![inProgress](https://user-images.githubusercontent.com/87738342/131793460-e7cb5c4e-98d6-461b-bd78-5b7b3ff15e9e.PNG)
 
 Below is an example of merged output photo. It is 640 x 2400 with large space (150) between each captured images.
 Screen capture duration time was set 5 seconds.
@@ -19,7 +19,7 @@ Screen capture duration time was set 5 seconds.
 * pathlib
 
 ## Installing (cloning)
-$ git clone https://github.com/1234eileenO/capMerger
+$ git clone https://github.com/1234eileenO/capMerger.git
 * Executable file (captureMerger.exe) is also available in this repository.
 
 ## Version History
